@@ -1,2 +1,3 @@
 # assurity-day
-## sub heading examplet
+## sub heading example
+**This will be bold**
