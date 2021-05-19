@@ -1,3 +1,3 @@
-# assurity-day
+# **assurity-day**
 ## *sub heading example*
 
